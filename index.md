@@ -63,7 +63,6 @@ ROBUST ACOUSTIC EVENT DETECTION BASED ON LONG-TERM FEATURES ( 基于长时特征
 ## Contact me
 
 Ziqiang Shi（石自强）
-Information Technology Laboratory
 Fujitsu Research & Development Center Co., Ltd.
 355Unit 3F, Gate 6，Space 8,Pacific Century Place, No.2A Gong Ti Bei Lu, Chaoyang District, Beijing, 100025, P.R. China
 TEL: +86-13621160486
