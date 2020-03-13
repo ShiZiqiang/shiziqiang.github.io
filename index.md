@@ -54,7 +54,7 @@ I am an Associate Research Manager at the Fujitsu Research and Development Cente
 4. Jin Li, Jiqing Han, Ziqiang Shi, ``An Efficient Approach to Humming Transcription for Query-by-Humming System'', IEEE International Congress on Image and Signal Processing (CISP), pp.3746-3749, 2010.
 3. Hao Xue, HaiFeng Li, Chang Gao, Ziqiang Shi, ``Computationally Efficient Audio Segmentation through a Multi-Stage BIC Approach'', IEEE International Conference on Image and Signal Processing (CISP), pp.3774-3777, 2010.
 2. Ziqiang Shi, Boyang Gao, Tieran Zheng, Jiqing Han, ``Objectionable Audio Content Understanding Based On In-Class Clustering Method'', IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC2009), pp. 712-716, 2009.
-1. Ziqiang Shi, Boyang Gao, Jiqing Han, Zhen Wu, ``Study of Objectionable Sound Recognition based on Histogram Features and SVM'', IEEE International Conference on Image and Signal Processing (CISP), pp. 1-4, 2009
+1. Ziqiang Shi, Boyang Gao, Jiqing Han, Zhen Wu, ``Study of Objectionable Sound Recognition based on Histogram Features and SVM'', IEEE International Conference on Image and Signal Processing (CISP), pp. 1-4, 2009.
 
 ### PhD Thesis
 
