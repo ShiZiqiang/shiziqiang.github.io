@@ -1,4 +1,4 @@
-## Welcome
+## Welcome to Ziqiang Shi（石自强）'s homepage.
 
 I am an Associate Research Manager at the Fujitsu Research and Development Center, located in Beijing, China. My current research interests include sound signal processing. I obtained my Ph.D degree in the spring of 2013 from the Harbin Institute of Technology in computer science under the supervision of Prof. Jiqing Han. Additionally I obtained a Masters of Science in the summer of 2008 in computer science from the same institute learned from Prof.  Haifeng Li.  I earned a bachelor's degree in computer science from Northeastern University,  where I  was admitted  without GAOKAO. Last, but certainly not least, I got married to my wonderful wife Lei Shi in the summer of 2012.
 
@@ -62,16 +62,9 @@ ROBUST ACOUSTIC EVENT DETECTION BASED ON LONG-TERM FEATURES ( 基于长时特征
 
 ## Contact me
 
-Ziqiang Shi（石自强）
-
-Fujitsu Research & Development Center Co., Ltd.
-
-355Unit 3F, Gate 6，Space 8,Pacific Century Place, No.2A Gong Ti Bei Lu, Chaoyang District, Beijing, 100025, P.R. China
-
-TEL: +86-13621160486
-
-E-mail: shiziqiang7@gmail.com; shiziqiang@cn.fujitsu.com
-
-Weibo:  @石自强007; http://weibo.com/ziqiang77
-
-Blog:  http://blog.sciencenet.cn/u/Riemann7
+I am employed by Fujitsu Research & Development Center Co., Ltd.
+My office address is 355Unit 3F, Gate 6，Space 8,Pacific Century Place, No.2A Gong Ti Bei Lu, Chaoyang District, Beijing, 100025, P.R. China.
+My TEL is +86-13621160486.
+My E-mail is shiziqiang7@gmail.com and shiziqiang@cn.fujitsu.com
+My Weibo is  @石自强007 (http://weibo.com/ziqiang77).
+My Blog is http://blog.sciencenet.cn/u/Riemann7
