@@ -1,4 +1,4 @@
-## Welcome to Ziqiang Shi（石自强）'s homepage.
+## About
 
 I am an Associate Research Manager at the Fujitsu Research and Development Center, located in Beijing, China. My current research interests include sound signal processing. I obtained my Ph.D degree in the spring of 2013 from the Harbin Institute of Technology in computer science under the supervision of Prof. Jiqing Han. Additionally I obtained a Masters of Science in the summer of 2008 in computer science from the same institute learned from Prof.  Haifeng Li.  I earned a bachelor's degree in computer science from Northeastern University,  where I  was admitted  without GAOKAO. Last, but certainly not least, I got married to my wonderful wife Lei Shi in the summer of 2012.
 
