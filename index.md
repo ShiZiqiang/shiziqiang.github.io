@@ -15,7 +15,7 @@ I am an Associate Research Manager at the Fujitsu Research and Development Cente
 
 ### Journal  Papers
 
-9. Liwen Zhang, Jiqing Han, Ziqiang Shi. Learning Temporal Relations from Semantic Neighbors for Acoustic Scene Classification. IEEE Signal Processing Letters. ACCEPTED.
+9. Liwen Zhang, Jiqing Han, Ziqiang Shi. Learning Temporal Relations from Semantic Neighbors for Acoustic Scene Classification. IEEE Signal Processing Letters. 2020.
 8. Liwen Zhang, Ziqiang Shi, Jiqing Han. Pyramidal Temporal Pooling with Discriminative Mapping for Audio Classification. IEEE/ACM Trans. on Audio, Speech and Language Processing, 2020, DOI:10.1109/TASLP.2020.2966868
 7. Ziqiang Shi, Jiqing Han, Tieran Zheng. Soft Margin Based Low-rank Audio Signal Classification. Neural Processing Letters, 2014, DOI:10.1007/s11063-014-9357-6. 
 6. Ziqiang Shi，Jiqing Han，Tieran Zheng，Shiwen Deng. Audio Segment Classification Using Online Learning Based Tensor Representation Feature Discrimination[J]. IEEE Transactions on Audio, Speech, And Language Processing, 2013, 21(1): 184-194.
