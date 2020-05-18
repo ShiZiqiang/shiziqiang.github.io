@@ -15,6 +15,7 @@ I am an Associate Research Manager at the Fujitsu Research and Development Cente
 
 ### Journal  Papers
 
+9. Liwen Zhang, Jiqing Han, Ziqiang Shi. Learning Temporal Relations from Semantic Neighbors for Acoustic Scene Classification. IEEE Signal Processing Letters. ACCEPTED.
 8. Liwen Zhang, Ziqiang Shi, Jiqing Han. Pyramidal Temporal Pooling with Discriminative Mapping for Audio Classification. IEEE/ACM Trans. on Audio, Speech and Language Processing, 2020, DOI:10.1109/TASLP.2020.2966868
 7. Ziqiang Shi, Jiqing Han, Tieran Zheng. Soft Margin Based Low-rank Audio Signal Classification. Neural Processing Letters, 2014, DOI:10.1007/s11063-014-9357-6. 
 6. Ziqiang Shi，Jiqing Han，Tieran Zheng，Shiwen Deng. Audio Segment Classification Using Online Learning Based Tensor Representation Feature Discrimination[J]. IEEE Transactions on Audio, Speech, And Language Processing, 2013, 21(1): 184-194.
@@ -26,7 +27,7 @@ I am an Associate Research Manager at the Fujitsu Research and Development Cente
 
 ### Conference Papers
 
-29. Ziqiang Sh, et al.  FurcaNeXt: End-to-end monaural speech separation with dynamic gated dilated temporal convolutional networks.   MMM 2020.  
+29. Liwen Zhang, Ziqiang Sh, et al.  FurcaNeXt: End-to-end monaural speech separation with dynamic gated dilated temporal convolutional networks.   MMM 2020.  
 28. Ziqiang Shi, et al.  HODGEPODGE: SOUND EVENT DETECTION BASED ON ENSEMBLE OF SEMI-SUPERVISED LEARNING METHODS.   DCASE2019 workshop. arxiv.org/abs/1907.07398. (Ranked 3rd in the dcase2019 challenge task4: "sound event detection in domestic environments".)
 27. Ziqiang Shi, et al.  FurcaNet: An end-to-end deep gated convolutional, long short-term memory, deep neural networks for single channel speech separation.  2019 全国人机语音通讯学术会议.  arxiv.org/abs/1902.00651
 26. Ziqiang Shi, et al. Is CQT more suitable for monaural speech separation than STFT? an empirical study.   2019 全国人机语音通讯学术会议. arxiv.org/abs/1902.00631. 
