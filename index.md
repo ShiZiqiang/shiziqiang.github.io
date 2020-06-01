@@ -27,7 +27,8 @@ I am an Associate Research Manager at the Fujitsu Research and Development Cente
 
 ### Conference Papers
 
-29. Liwen Zhang, Ziqiang Sh, et al.  FurcaNeXt: End-to-end monaural speech separation with dynamic gated dilated temporal convolutional networks.   MMM 2020.  
+30. Shi Ziqiang, Liu Liu, Liu Rujie. HODGE AND PODGE: HYBRID SUPERVISED SOUND EVENT DETECTION WITH MULTI-HOT MIXMATCH AND COMPOSITION CONSISTENCE TRAINING. EUSIPCO 2020.
+29. Liwen Zhang, Ziqiang Shi, et al.  FurcaNeXt: End-to-end monaural speech separation with dynamic gated dilated temporal convolutional networks.   MMM 2020.  
 28. Ziqiang Shi, et al.  HODGEPODGE: SOUND EVENT DETECTION BASED ON ENSEMBLE OF SEMI-SUPERVISED LEARNING METHODS.   DCASE2019 workshop. arxiv.org/abs/1907.07398. (Ranked 3rd in the dcase2019 challenge task4: "sound event detection in domestic environments".)
 27. Ziqiang Shi, et al.  FurcaNet: An end-to-end deep gated convolutional, long short-term memory, deep neural networks for single channel speech separation.  2019 全国人机语音通讯学术会议.  arxiv.org/abs/1902.00651
 26. Ziqiang Shi, et al. Is CQT more suitable for monaural speech separation than STFT? an empirical study.   2019 全国人机语音通讯学术会议. arxiv.org/abs/1902.00631. 
