@@ -4,6 +4,8 @@ I am an Associate Research Manager at the Fujitsu Research and Development Cente
 
 ## Publications
 
+(Note: Most of my papers are on arxiv.)
+
 ### 专著
 
 1. 韩纪庆，石自强. 声学事件检测理论与方法[M]. 科学出版社，2016. （购买链接：http://item.jd.com/10563712295.html）
