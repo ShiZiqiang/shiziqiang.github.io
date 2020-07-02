@@ -68,7 +68,7 @@ ROBUST ACOUSTIC EVENT DETECTION BASED ON LONG-TERM FEATURES ( 基于长时特征
 
 I am employed by Fujitsu Research & Development Center Co., Ltd.
 My office address is 355Unit 3F, Gate 6，Space 8,Pacific Century Place, No.2A Gong Ti Bei Lu, Chaoyang District, Beijing, 100025, P.R. China.
-My TEL is +86-13621160486.
-My E-mails are shiziqiang7@gmail.com and shiziqiang@cn.fujitsu.com.
-My Weibo is  @石自强007 (http://weibo.com/ziqiang77).
-My Blog is http://blog.sciencenet.cn/u/Riemann7.
+TEL: +86-13621160486.
+E-mails: shiziqiang7@gmail.com and shiziqiang@cn.fujitsu.com.
+Weibo: @石自强007 (http://weibo.com/ziqiang77).
+Blog：http://blog.sciencenet.cn/u/Riemann7.
