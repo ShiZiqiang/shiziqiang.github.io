@@ -65,10 +65,10 @@ I am an Associate Research Manager at the Fujitsu Research and Development Cente
 ROBUST ACOUSTIC EVENT DETECTION BASED ON LONG-TERM FEATURES ( 基于长时特征的鲁棒声学事件检测 ).
 
 ## 荣誉
-北京市朝阳区国际高端商务人才 之 青年英才 （2019）
-富士通研发中心 总经理特别奖 之 信息处理技术的本地化推广及应用奖（2015）
-富士通研发中心 总经理特别奖 之 团队突出贡献奖（2014）
-哈尔滨工业大学优秀博士论文提名（2014，3/42 计算机学院）
+4. 北京市朝阳区国际高端商务人才 之 青年英才 （2019）
+3. 富士通研发中心 总经理特别奖 之 信息处理技术的本地化推广及应用奖（2015）
+2. 富士通研发中心 总经理特别奖 之 团队突出贡献奖（2014）
+1. 哈尔滨工业大学优秀博士论文提名（2014，3/42 计算机学院）
 
 ## Contact me
 
