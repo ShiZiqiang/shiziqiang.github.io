@@ -4,7 +4,7 @@ I am an Associate Research Manager at the Fujitsu Research and Development Cente
 
 ## Publications
 
-(Note: Most of my papers are on arxiv.)
+(Note: Most of my papers can be found on arxiv.)
 
 ### 专著
 
