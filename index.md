@@ -30,7 +30,7 @@ I am an Associate Research Manager at the Fujitsu Research and Development Cente
 ### Conference Papers
 
 34. Ziqiang Shi, Rujie Liu, Jiqing Han. Monaural Speech Separation with Context-Aware Multi-Phase Decontaminated Dual-Path Deep BiLSTM. Interspeech 2020. https://arxiv.org/abs/2001.08998
-33. Ziqiang Shi, Rujie Liu, Jiqing Han. Speech Separation Based on Multi-Stage Elaborated Dual-Path Deep BiLSTM with Auxiliary Identity Loss. Interspeech 2020. https://arxiv.org/abs/
+33. Ziqiang Shi, Rujie Liu, Jiqing Han. Speech Separation Based on Multi-Stage Elaborated Dual-Path Deep BiLSTM with Auxiliary Identity Loss. Interspeech 2020. https://arxiv.org/abs/2008.03149
 32. Ziqiang Shi, Rujie Liu, Jiqing Han. Iterative Multi-Stage Refined Dual-Path Deep Parallel BiLSTM for Monaural Speech Separation. Interspeech 2020. https://arxiv.org/abs/2001.08998
 31. Liwen Zhang, Jiqing Han, Ziqiang Shi. ATReSN-Net: Capturing Attentive Temporal Relations in Semantic Neighborhood for Acoustic Scene Classification. Interspeech 2020.
 30. Shi Ziqiang, Liu Liu, Liu Rujie. HODGE AND PODGE: HYBRID SUPERVISED SOUND EVENT DETECTION WITH MULTI-HOT MIXMATCH AND COMPOSITION CONSISTENCE TRAINING. EUSIPCO 2020. https://arxiv.org/abs/2002.06021
