@@ -68,7 +68,7 @@ ROBUST ACOUSTIC EVENT DETECTION BASED ON LONG-TERM FEATURES ( 基于长时特征
 
 ## 审稿
 
-Multimedia Tools and Applications，IEEE Transactions on Audio, Speech, And Language Processing，自动化学报，ECML。
+Speech Communication，Multimedia Tools and Applications，IEEE Transactions on Audio, Speech, And Language Processing，自动化学报，ECML，AAAI，IJCAI。
 
 ## 荣誉
 4. 北京市朝阳区国际高端商务人才 之 青年英才 （2019）
@@ -78,9 +78,8 @@ Multimedia Tools and Applications，IEEE Transactions on Audio, Speech, And Lang
 
 ## Contact me
 
-I am employed by Fujitsu Research & Development Center Co., Ltd.
-My office address is 355Unit 3F, Gate 6，Space 8,Pacific Century Place, No.2A Gong Ti Bei Lu, Chaoyang District, Beijing, 100025, P.R. China.
-TEL: +86-13621160486.
-E-mails: shiziqiang7@gmail.com and shiziqiang@cn.fujitsu.com.
-Weibo: @石自强007 (http://weibo.com/ziqiang77).
+TEL: +86-13621160486
+
+E-mails: shiziqiang7@gmail.com and shiziqiang@fujitsu.com.
+
 Blog：http://blog.sciencenet.cn/u/Riemann7.
