@@ -68,7 +68,7 @@ ROBUST ACOUSTIC EVENT DETECTION BASED ON LONG-TERM FEATURES ( 基于长时特征
 
 ## 审稿
 
-Speech Communication，Multimedia Tools and Applications，IEEE Transactions on Audio, Speech, And Language Processing，自动化学报，ECML，AAAI，IJCAI。
+Speech Communication，Multimedia Tools and Applications，IEEE Transactions on Audio, Speech, And Language Processing，自动化学报，电子学报，ECML，AAAI，IJCAI，WACV。
 
 ## 荣誉
 4. 北京市朝阳区国际高端商务人才 之 青年英才 （2019）
