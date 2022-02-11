@@ -29,6 +29,7 @@ I am a Research Manager at the Fujitsu Research and Development Center, Beijing,
 
 ### Conference Papers
 
+33. Shoule Wu, Ziqiang Shi. ItoWave: Ito Stochastic Differential Equation Is All You Need For Wave Generation. ICASSP 2022. https://arxiv.org/abs/2201.12519
 32. Ziqiang Shi, Rujie Liu, Jiqing Han. Speech Separation Based on Multi-Stage Elaborated Dual-Path Deep BiLSTM with Auxiliary Identity Loss. Interspeech 2020. https://arxiv.org/abs/2008.03149
 31. Liwen Zhang, Jiqing Han, Ziqiang Shi. ATReSN-Net: Capturing Attentive Temporal Relations in Semantic Neighborhood for Acoustic Scene Classification. Interspeech 2020.
 30. Shi Ziqiang, Liu Liu, Liu Rujie. HODGE AND PODGE: HYBRID SUPERVISED SOUND EVENT DETECTION WITH MULTI-HOT MIXMATCH AND COMPOSITION CONSISTENCE TRAINING. EUSIPCO 2020. https://arxiv.org/abs/2002.06021
@@ -68,7 +69,7 @@ ROBUST ACOUSTIC EVENT DETECTION BASED ON LONG-TERM FEATURES ( 基于长时特征
 
 ## 审稿
 
-Speech Communication，Multimedia Tools and Applications，IEEE Transactions on Audio, Speech, And Language Processing，自动化学报，电子学报，ECML，AAAI，IJCAI，WACV。
+Applied Acoustics, Speech Communication，Multimedia Tools and Applications, IEEE Transactions on Audio, Speech, And Language Processing，自动化学报，电子学报，ECML，AAAI，IJCAI，WACV。
 
 ## 荣誉
 4. 北京市朝阳区国际高端商务人才 之 青年英才 （2019）
