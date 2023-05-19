@@ -68,7 +68,7 @@ ROBUST ACOUSTIC EVENT DETECTION BASED ON LONG-TERM FEATURES ( 基于长时特征
 
 ## 审稿
 
-Applied Acoustics, Speech Communication，Multimedia Tools and Applications, IEEE Transactions on Audio, Speech, And Language Processing，自动化学报，电子学报，ECML，AAAI，IJCAI，WACV。
+IEEE Signal Processing Letter, Applied Acoustics, Speech Communication，Multimedia Tools and Applications, IEEE Transactions on Audio, Speech, And Language Processing，自动化学报，电子学报，ECML，AAAI，IJCAI，WACV。
 
 ## 荣誉
 5. 副研究员 (2021)
