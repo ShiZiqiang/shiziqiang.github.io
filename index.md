@@ -28,7 +28,6 @@ I am a Research Scientist and Senior Research Manager at the Fujitsu Research an
 1. 石自强，李海峰，孙佳音，``基于SVM的流行音乐中人声的识别'', 计算机工程与应用, 2008 44(25): 126-128.
 
 ### Conference Papers
-
 32. Ziqiang Shi, Rujie Liu, Jiqing Han. Speech Separation Based on Multi-Stage Elaborated Dual-Path Deep BiLSTM with Auxiliary Identity Loss. Interspeech 2020. https://arxiv.org/abs/2008.03149
 31. Liwen Zhang, Jiqing Han, Ziqiang Shi. ATReSN-Net: Capturing Attentive Temporal Relations in Semantic Neighborhood for Acoustic Scene Classification. Interspeech 2020.
 30. Shi Ziqiang, Liu Liu, Liu Rujie. HODGE AND PODGE: HYBRID SUPERVISED SOUND EVENT DETECTION WITH MULTI-HOT MIXMATCH AND COMPOSITION CONSISTENCE TRAINING. EUSIPCO 2020. https://arxiv.org/abs/2002.06021
