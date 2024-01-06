@@ -71,6 +71,7 @@ ROBUST ACOUSTIC EVENT DETECTION BASED ON LONG-TERM FEATURES ( 基于长时特征
 IEEE Signal Processing Letter, Applied Acoustics, Speech Communication，Multimedia Tools and Applications, IEEE Transactions on Audio, Speech, And Language Processing，自动化学报，电子学报，ECML，AAAI，IJCAI，WACV。
 
 ## 荣誉
+8. 最佳论文奖 IEEE/CVF 计算机视觉应用冬季会议 2024(IEEE/CVF Winter Conference on Applications of Computer Vision, WACV 2024)
 7. 冠军 第七届人工智能城市挑战赛(AI CITY CHALLENGE 2023, https://www.aicitychallenge.org/2023-challenge-winners/)
 6. 副研究员 (2021)
 5. 北京市朝阳区国际高端商务人才 之 青年英才 （2019）
