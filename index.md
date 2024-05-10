@@ -28,6 +28,8 @@ I am a Research Scientist and Senior Research Manager at the Fujitsu Research an
 1. 石自强，李海峰，孙佳音，``基于SVM的流行音乐中人声的识别'', 计算机工程与应用, 2008 44(25): 126-128.
 
 ### Conference Papers
+40. Ziqiang Shi, Rujie Liu. MULTIMEDIA GENERATIVE MODELLING WITH HIGH-ORDER LANGEVIN DYNAMICS. ICME 2024.
+39. Ziqiang Shi, Rujie Liu. NOISY IMAGE RESTORATION BASED ON CONDITIONAL ACCELERATION SCORE APPROXIMATION. ICASSP 2024.
 38. Ziqiang Shi, Rujie Liu. Conditional Velocity Score Estimation for Image Restoration. WACV 2024. (Best paper award)
 37. Ziqiang Shi, Zhongling Liu, Liu Liu, Rujie Liu, Takuma Yamamoto, Xiaoyu Mi, and Daisuke Uchida. CheckSORT: Refined synthetic data combination and optimized sort for automatic retail checkout. In CVPR Workshop, 2023. (1st prize in the 7th AI CITY CHALLENGE)
 36. Zhongling Liu, Rujie Liu, Ziqiang Shi, Liu Liu Xiaoyu Mi, Kentaro Murase. SEMI-SUPERVISED CONTRASTIVE LEARNING WITH SOFT MASK ATTENTION FOR FACIAL ACTION UNIT DETECTION. ICASSP 2023.
