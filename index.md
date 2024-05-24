@@ -66,7 +66,6 @@ IEEE Signal Processing Letter, Applied Acoustics, Speech Communication，Multime
 4. 季军 第五届声学场景和事件的检测和分类竞赛(DCASE 2019, https://dcase.community/challenge2019/)
 3. 富士通研发中心 总经理特别奖 之 信息处理技术的本地化推广及应用奖（2015）
 2. 富士通研发中心 总经理特别奖 之 团队突出贡献奖（2014）
-1. 哈尔滨工业大学优秀博士论文提名（2014，3/42 计算机学院）
 
 ## Contact me
 
