@@ -2,7 +2,7 @@
 
 I am a Research Scientist and Senior Research Manager at the Fujitsu Research and Development Center, in Beijing, China. My current research interests include music, audio, speech, and image signal processing. I obtained my PhD degree in the spring of 2013 from the Harbin Institute of Technology in computer science under the supervision of Prof. Jiqing Han. Additionally, I obtained a Master of Science in the summer of 2008 in computer science from the same institute learned from Prof.  Haifeng Li.  I earned a bachelor's degree in computer science from Northeastern University,  where I  was admitted without Chinese GAOKAO. Last, but certainly not least, I got married to my wonderful wife Lei Shi in the summer of 2012.
 
-## Publications
+## Selected publications
 
 (Note: Most of my papers can be found on arxiv.)
 
