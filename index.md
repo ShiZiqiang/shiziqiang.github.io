@@ -6,19 +6,12 @@ I am a Research Scientist and Senior Research Manager at the Fujitsu Research an
 
 (Note: Most of my papers can be found on arxiv.)
 
-### 专著
 
-1. 韩纪庆，石自强. 声学事件检测理论与方法[M]. 科学出版社，2016. （购买链接：http://item.jd.com/10563712295.html）
 
-### Preprints
-
-2. Ziqiang Shi, Rujie Liu, Jiqing Han. LaFurca: Iterative Refined Speech Separation Based on Context-Aware Dual-Path Parallel Bi-LSTM. 2020. https://arxiv.org/abs/2001.08998  (achieved 20.55dB SDR improvement, 20.35dB SI-SDR improvement, 3.69 of PESQ, and 94.86% of ESTOI on WSJ-2mix dataset. You can check the separated voices in this page:https://shiziqiang.github.io/tastas/).
-1. Ziqiang Shi, Tieran Zheng, Jiqing Han.  Identifiability of multivariate logistic mixture models.  arxiv.org/abs/1208.3546.
 
 ### Journal  Papers
 
-9. Liwen Zhang, Jiqing Han, Ziqiang Shi. Learning Temporal Relations from Semantic Neighbors for Acoustic Scene Classification. IEEE Signal Processing Letters. 2020.
-8. Liwen Zhang, Ziqiang Shi, Jiqing Han. Pyramidal Temporal Pooling with Discriminative Mapping for Audio Classification. IEEE/ACM Trans. on Audio, Speech and Language Processing, 2020, DOI:10.1109/TASLP.2020.2966868
+
 7. Ziqiang Shi, Jiqing Han, Tieran Zheng. Soft Margin Based Low-rank Audio Signal Classification. Neural Processing Letters, 2014, DOI:10.1007/s11063-014-9357-6. 
 6. Ziqiang Shi，Jiqing Han，Tieran Zheng，Shiwen Deng. Audio Segment Classification Using Online Learning Based Tensor Representation Feature Discrimination[J]. IEEE Transactions on Audio, Speech, And Language Processing, 2013, 21(1): 184-194.
 5. Ziqiang Shi，Jiqing Han，Tieran Zheng，Ji Li. Identification of Objectionable Audio Segments Based on Pseudo and Heterogeneous Mixture Models[J]. IEEE Transactions on Audio, Speech, And Language Processing, 2013, 21 (3): 611-623.
