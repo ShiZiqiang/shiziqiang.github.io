@@ -12,43 +12,21 @@ I am a Research Scientist and Senior Research Manager at the Fujitsu Research an
 40. Ziqiang Shi, Rujie Liu. LANGWAVE: REALISTIC VOICE GENERATION BASED ON HIGH-ORDER LANGEVIN DYNAMICS. ICASSP 2024.
 39. Ziqiang Shi, Rujie Liu. NOISY IMAGE RESTORATION BASED ON CONDITIONAL ACCELERATION SCORE APPROXIMATION. ICASSP 2024.
 38. Ziqiang Shi, Rujie Liu. Conditional Velocity Score Estimation for Image Restoration. WACV 2024. (Best paper award)
-37. Ziqiang Shi, Zhongling Liu, Liu Liu, Rujie Liu, Takuma Yamamoto, Xiaoyu Mi, and Daisuke Uchida. CheckSORT: Refined synthetic data combination and optimized sort for automatic retail checkout. In CVPR Workshop, 2023. (1st prize in the 7th AI CITY CHALLENGE)
 36. Zhongling Liu, Rujie Liu, Ziqiang Shi, Liu Liu Xiaoyu Mi, Kentaro Murase. SEMI-SUPERVISED CONTRASTIVE LEARNING WITH SOFT MASK ATTENTION FOR FACIAL ACTION UNIT DETECTION. ICASSP 2023.
 35. Shoule Wu, Ziqiang Shi. ItoWave: Ito Stochastic Differential Equation Is All You Need For Wave Generation. ICASSP 2022. https://arxiv.org/abs/2201.12519
-34. Zhongling Liu, Ziqiang Shi, Rujie Liu, Liu Liu, Xiaoyu Mi, Kentaro Murase. Expression-assisted facial action unit detection through an attention mechanism and smooth class-weighted Loss. Thirteenth International Conference on Signal Processing Systems (ICSPS 2021)
-33. Ziqiang Shi, Liu Liu, Zhongling Liu, Rujie Liu, Xiaoyu Mi, Murase Kentaro. HiCOMEX: Facial action unit recognition based on hierarchy intensity distribution and COMEX relation learning. 2021 4th International Conference on Intelligent Robotics and Control Engineering, IRCE 2021. (Best oral presentation) 
 32. Ziqiang Shi, Rujie Liu, Jiqing Han. Speech Separation Based on Multi-Stage Elaborated Dual-Path Deep BiLSTM with Auxiliary Identity Loss. Interspeech 2020. https://arxiv.org/abs/2008.03149
 31. Liwen Zhang, Jiqing Han, Ziqiang Shi. ATReSN-Net: Capturing Attentive Temporal Relations in Semantic Neighborhood for Acoustic Scene Classification. Interspeech 2020.
-30. Shi Ziqiang, Liu Liu, Liu Rujie. HODGE AND PODGE: HYBRID SUPERVISED SOUND EVENT DETECTION WITH MULTI-HOT MIXMATCH AND COMPOSITION CONSISTENCE TRAINING. EUSIPCO 2020. https://arxiv.org/abs/2002.06021
-29. Liwen Zhang, Ziqiang Shi, et al.  FurcaNeXt: End-to-end monaural speech separation with dynamic gated dilated temporal convolutional networks.   MMM 2020.  
-28. Ziqiang Shi, et al.  HODGEPODGE: SOUND EVENT DETECTION BASED ON ENSEMBLE OF SEMI-SUPERVISED LEARNING METHODS.   DCASE2019 workshop. arxiv.org/abs/1907.07398. (Ranked 3rd in the dcase2019 challenge task4: "sound event detection in domestic environments".)
-27. Ziqiang Shi, et al.  FurcaNet: An end-to-end deep gated convolutional, long short-term memory, deep neural networks for single channel speech separation.  2019 全国人机语音通讯学术会议.  arxiv.org/abs/1902.00651
-26. Ziqiang Shi, et al. Is CQT more suitable for monaural speech separation than STFT? an empirical study.   2019 全国人机语音通讯学术会议. arxiv.org/abs/1902.00631. 
 25. Ziqiang Shi, Huibin Lin, Liu Liu, Rujie Liu, Jiqing Han, and Anyan Shi.  Deep Attention Gated Dilated Temporal Convolutional Networks with Intra-Parallel Convolutional Modules for End-to-End Monaural Speech Separation  [C].   Interspeech 2019.
 24. Ziqiang Shi, Huibin Lin, Liu Liu, Rujie Liu, Shoji Hayakawa, Shouji Harada and Jiqing Han.  End-to-End Monaural Speech Separation with Multi-Scale Dynamic Weighted Gated Dilated Convolutional Pyramid Network [C].   Interspeech 2019.
 23. Ziqiang Shi, Huibin Lin, Liu Liu, Rujie Liu, Shoji Hayakawa and Jiqing Han.  FurcaX: End-to-end monaural speech separation based on deep gated (de)convolutional neural networks with adversarial example training [C].   ICASSP 2019.
-22. Ziqiang Shi, Huibin Lin, Liu Liu, Rujie Liu, Shoji Hayakawa and Jiqing Han.  Deep Clustering With Constant Q Transform For Multi-Talker Single Channel Speech Separation [C].   IEEE FRUCT 2018.
 21. Ziqiang Shi, Huibin Lin, Liu Liu, Rujie Liu.  Double Joint Bayesian Modeling of DNN LocalI-Vector for Text Dependent Speaker Veriﬁcation with Random Digit Strings [C].  Interspeech 2018.
 20. Ziqiang Shi, Huibin Lin, Liu Liu, Rujie Liu. Latent Factor Analysis of Deep Bottleneck Features for Speaker Veriﬁcation with Random Digit Strings [C].  Interspeech  2018.
 19. Ziqiang Shi, Liu Liu, Huibin Lin, Rujie Liu.  Joint Learning of J-Vector Extractor and Joint Bayesian Model for Text Dependent Speaker Veriﬁcation [C].  Interspeech 2018.
-18. Ziqiang Shi, Mengjiao Wang, Liu Liu, Huibin Lin, Rujie Liu.  A Double Joint Bayesian Approach for J-Vector Based Text-dependent Speaker Verification[C].  Speaker Odyssey 2018.
-17. Ziqiang Shi, Rujie Liu. A better convergence analysis of the block coordinate descent method for large scale machine learning[C]. ICMLA 2017. 
-16. Ziqiang Shi, Liu Liu, Mengjiao Wang, Rujie Liu.  Multi-View (Joint) Probability Linear Discrimination Analysis For J-Vector Based Text Dependent Speaker Verification[C]. ASRU 2017.
-15. Ziqiang Shi, Rujie Liu. Online and stochastic Douglas-Rachford splitting method for large scale machine learning[C].  ACML workshop on Learning on big data 2016.
-14. Ziqiang Shi, Rujie Liu. Empirical study of PROXTONE and PROXTONE +  for Fast Learning of Large Scale Sparse Models[C]. ICSP 2016.
 13. Ziqiang Shi, Rujie Liu. Large Scale Optimization with Proximal Stochastic Newton-type Gradient Descent [C]. ECML 2015. (Acceptance rate: 89/383=23%)
 12. Ziqiang Shi, Rujie Liu. Online and Stochastic Universal Gradient Methods for Minimizing Regularized H"older Continuous Finite Sums in Machine Learning[C]. PAKDD 2015. (Acceptance rate: 90/405=22%)
 11. Ziqiang Shi，Tieran Zheng， Jiqing Han， Ji Li. Guarantees of Augmented Trace Norm Models in Tensor Recovery[C]. IJCAI 2013. (Acceptance rate: 413/1473=28%)
 10. Ziqiang Shi，Tieran Zheng， Jiqing Han， Shiwen Deng. Low-rank Audio Signal Classification Under Soft Margin and Trace Norm Constraints[C]. Interspeech2012, pp.2401-2404.
-9. 石自强, 韩纪庆, 郑铁然, ``基于锚空间的音频场景识别'', 2011 全国人机语音通讯学术会议.
-8. Ziqiang Shi, Jiqing Han, Tieran Zheng, “A Novel Framework Based on Trace Norm Minimization for Audio Event Detection”, ICONIP 2011, Part II, LNCS 7063, pp. 646-654. Springer, Heidelberg (2011).
-7. Ziqiang Shi, Jiqing Han, Tieran Zheng, ``Heterogeneous Mixture Models Using Sparse Representation Features For Applause And Laugh Detection'', IEEE International Workshop on Machine Learning For Signal Processing (MLSP), pp.1-5, 2011.
 6. Ziqiang Shi, Jiqing Han, Tieran Zheng, ``Real-World Speech/Non-Speech Audio Classification Based on Sparse Representation Features and GPCs'', Interspeech2011,pp.2401-2404.
-5. Miao Li, Jin Li, Jiqing Han, Ziqiang Shi, ``Singing Melody Extraction from Pop Songs Using a Novel Feature and Viterbi Search'', IEEE International Conference on Computational Intelligence and Software Engineering (CiSE), pp.1-4, 2010.
-4. Jin Li, Jiqing Han, Ziqiang Shi, ``An Efficient Approach to Humming Transcription for Query-by-Humming System'', IEEE International Congress on Image and Signal Processing (CISP), pp.3746-3749, 2010.
-3. Hao Xue, HaiFeng Li, Chang Gao, Ziqiang Shi, ``Computationally Efficient Audio Segmentation through a Multi-Stage BIC Approach'', IEEE International Conference on Image and Signal Processing (CISP), pp.3774-3777, 2010.
-2. Ziqiang Shi, Boyang Gao, Tieran Zheng, Jiqing Han, ``Objectionable Audio Content Understanding Based On In-Class Clustering Method'', IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC2009), pp. 712-716, 2009.
-1. Ziqiang Shi, Boyang Gao, Jiqing Han, Zhen Wu, ``Study of Objectionable Sound Recognition based on Histogram Features and SVM'', IEEE International Conference on Image and Signal Processing (CISP), pp. 1-4, 2009.
 
 ### PhD Thesis
 
