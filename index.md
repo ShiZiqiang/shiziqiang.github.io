@@ -8,19 +8,6 @@ I am a Research Scientist and Senior Research Manager at the Fujitsu Research an
 
 
 
-
-### Journal  Papers
-
-
-7. Ziqiang Shi, Jiqing Han, Tieran Zheng. Soft Margin Based Low-rank Audio Signal Classification. Neural Processing Letters, 2014, DOI:10.1007/s11063-014-9357-6. 
-6. Ziqiang Shi，Jiqing Han，Tieran Zheng，Shiwen Deng. Audio Segment Classification Using Online Learning Based Tensor Representation Feature Discrimination[J]. IEEE Transactions on Audio, Speech, And Language Processing, 2013, 21(1): 184-194.
-5. Ziqiang Shi，Jiqing Han，Tieran Zheng，Ji Li. Identification of Objectionable Audio Segments Based on Pseudo and Heterogeneous Mixture Models[J]. IEEE Transactions on Audio, Speech, And Language Processing, 2013, 21 (3): 611-623.
-4. Ziqiang Shi，Jiqing Han，Tieran Zheng. Audio Classification with Low-rank Matrix Representation Features[J]. ACM Transactions on Intelligent Systems and Technology, 2014, 5 (1).
-3. Ziqiang Shi，Tieran Zheng，Jiqing Han，Boyang Gao. Erotic Audio Recognition Using Heterogeneous Ensemble Classifiers[J]. International Journal of Computer and Electrical Engineering, vol. 4, no. 5, pp. 666-669 , 2012.
-2. Shi Ziqiang, Gao Boyang, Zheng Tieran, Han Jiqing, ``Study On The Recognition Of Objectionable Audio'', International Journal of Pattern Recognition and Artificial Intelligence, 2010,24(6):981-994.
-1. 石自强，李海峰，孙佳音，``基于SVM的流行音乐中人声的识别'', 计算机工程与应用, 2008 44(25): 126-128.
-
-### Conference Papers
 41. Ziqiang Shi, Rujie Liu. MULTIMEDIA GENERATIVE MODELLING WITH HIGH-ORDER LANGEVIN DYNAMICS. ICME 2024.
 40. Ziqiang Shi, Rujie Liu. LANGWAVE: REALISTIC VOICE GENERATION BASED ON HIGH-ORDER LANGEVIN DYNAMICS. ICASSP 2024.
 39. Ziqiang Shi, Rujie Liu. NOISY IMAGE RESTORATION BASED ON CONDITIONAL ACCELERATION SCORE APPROXIMATION. ICASSP 2024.
