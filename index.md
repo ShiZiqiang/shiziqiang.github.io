@@ -12,6 +12,7 @@ I am a Senior Research Scientist and Senior Research Manager at the Fujitsu R & 
 
 ### Preprints
 
+3. Ziqiang Shi, Rujie Liu. Generative Modelling with High-Order Langevin Dynamics. https://arxiv.org/abs/2404.12814
 2. Ziqiang Shi, Rujie Liu, Jiqing Han. LaFurca: Iterative Refined Speech Separation Based on Context-Aware Dual-Path Parallel Bi-LSTM. 2020. https://arxiv.org/abs/2001.08998  (achieved 20.55dB SDR improvement, 20.35dB SI-SDR improvement, 3.69 of PESQ, and 94.86% of ESTOI on WSJ-2mix dataset. You can check the separated voices in this page:https://shiziqiang.github.io/tastas/).
 1. Ziqiang Shi, Tieran Zheng, Jiqing Han.  Identifiability of multivariate logistic mixture models.  arxiv.org/abs/1208.3546.
 
