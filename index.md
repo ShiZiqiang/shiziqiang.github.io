@@ -29,7 +29,6 @@ I am a Senior Research Scientist and Senior Research Manager at the Fujitsu R & 
 1. 石自强，李海峰，孙佳音，``基于SVM的流行音乐中人声的识别'', 计算机工程与应用, 2008 44(25): 126-128.
 
 ### Conference Papers
-42. Shijie Nie, Ziqiang Shi, Rujie Liu, Song Guo, Meng Zhang, Mengjiao Wang, Kazuki Osamura, Lina Septiana, Abe Narishige. Attribute Conditional Diffusion-Augmented Person Re-Identification. ICASSP 2025.
 41. Ziqiang Shi, Rujie Liu. MULTIMEDIA GENERATIVE MODELLING WITH HIGH-ORDER LANGEVIN DYNAMICS. ICME 2024.
 40. Ziqiang Shi, Rujie Liu. LANGWAVE: REALISTIC VOICE GENERATION BASED ON HIGH-ORDER LANGEVIN DYNAMICS. ICASSP 2024.
 39. Ziqiang Shi, Rujie Liu. NOISY IMAGE RESTORATION BASED ON CONDITIONAL ACCELERATION SCORE APPROXIMATION. ICASSP 2024.
