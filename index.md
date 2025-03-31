@@ -1,4 +1,4 @@
-### About
+![image](https://github.com/user-attachments/assets/dc3052e0-449f-4f03-9c47-03717a6b9255)### About
 
 I am a Senior Research Scientist and Senior Research Manager at the Fujitsu R & D Center in Beijing. My current research interests include music, audio, speech, and image signal processing. I obtained my PhD degree in the spring of 2013 from the Harbin Institute of Technology in computer science under the supervision of Prof. Jiqing Han. Additionally, I obtained a Master of Science in the summer of 2008 in computer science from the same institute learned from Prof.  Haifeng Li.  I earned a bachelor's degree in computer science from Northeastern University in Shenyang,  where I  was admitted without Chinese GAOKAO. Last, but certainly not least, I got married to my wonderful wife Lei Shi in the summer of 2012. (By the way, I am originally from the suburbs of Yangzhou City, Jiangsu province)
 
@@ -29,6 +29,9 @@ I am a Senior Research Scientist and Senior Research Manager at the Fujitsu R & 
 1. 石自强，李海峰，孙佳音，``基于SVM的流行音乐中人声的识别'', 计算机工程与应用, 2008 44(25): 126-128.
 
 ### Conference Papers
+44. Shijie Nie, Ziqiang Shi, Rujie Liu, Song Guo, Meng Zhang, Mengjiao Wang, Kazuki Osamura, Lina Septiana, Abe Narishige. Attribute Conditional Diffusion-Augmented Person Re-Identification. ICASSP 2025.
+43. Shi, Ziqiang and Liu, Rujie and Takahashi, Jun and Yamamoto, Takuma. Bayesian Optimal Latent Projection for Noisy Image Restoration. WACV 2025.
+42. Liu, Zhongling, Ziqiang Shi, Rujie Liu, Liu Liu, Takuma Yamamoto, and Daisuke Uchida. "Self-Checkout Product Detection with Occlusion Layer Prediction and Intersection Weighting." In 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1742-1747. IEEE, 2024.
 41. Ziqiang Shi, Rujie Liu. MULTIMEDIA GENERATIVE MODELLING WITH HIGH-ORDER LANGEVIN DYNAMICS. ICME 2024.
 40. Ziqiang Shi, Rujie Liu. LANGWAVE: REALISTIC VOICE GENERATION BASED ON HIGH-ORDER LANGEVIN DYNAMICS. ICASSP 2024.
 39. Ziqiang Shi, Rujie Liu. NOISY IMAGE RESTORATION BASED ON CONDITIONAL ACCELERATION SCORE APPROXIMATION. ICASSP 2024.
