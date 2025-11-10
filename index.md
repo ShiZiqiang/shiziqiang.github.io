@@ -29,6 +29,7 @@ I am a Senior Research Scientist and Senior Research Manager at the Fujitsu R & 
 1. 石自强，李海峰，孙佳音，``基于SVM的流行音乐中人声的识别'', 计算机工程与应用, 2008 44(25): 126-128.
 
 ### Conference Papers
+45. Ziqiang Shi, Rujie Liu, Jun Takahashi, and Shan Jiang. TrueCount: Improving Open-World Object Counting with Visual-Language Models and Dynamic Multi-Modal Inputs. In Proceedings of the 33rd ACM International Conference on Multimedia (MM '25@Dublin, Ireland), 1764–1773.
 44. Shijie Nie, Ziqiang Shi, Rujie Liu, Song Guo, Meng Zhang, Mengjiao Wang, Kazuki Osamura, Lina Septiana, Abe Narishige. Attribute Conditional Diffusion-Augmented Person Re-Identification. ICASSP 2025.
 43. Shi, Ziqiang and Liu, Rujie and Takahashi, Jun and Yamamoto, Takuma. Bayesian Optimal Latent Projection for Noisy Image Restoration. WACV 2025.
 42. Liu, Zhongling, Ziqiang Shi, Rujie Liu, Liu Liu, Takuma Yamamoto, and Daisuke Uchida. "Self-Checkout Product Detection with Occlusion Layer Prediction and Intersection Weighting." In 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1742-1747. IEEE, 2024.
