@@ -4,7 +4,7 @@ I currently serve as a Senior Research Scientist and Senior Research Manager at 
 I received my Ph.D. in Computer Science from the Harbin Institute of Technology in Spring 2013, under the supervision of Prof. Jiqing Han. Previously, I earned my M.S. in Computer Science from the same institution in Summer 2008, where I worked with Prof. Haifeng Li. I hold a B.S. in Computer Science from Northeastern University in Shenyang, where I was admitted via a special exemption from the National College Entrance Examination (Gaokao). 
 Last, but certainly not least, I got married to my wonderful wife Lei Shi in the summer of 2012. (By the way, I am originally from the suburbs of Yangzhou City, Jiangsu province)
 
-## Artwork
+## Artwork :)
 
 Not mine, my daughter's, enjoy (https://shiziqiang.github.io/paintings_by_anna/).
 
