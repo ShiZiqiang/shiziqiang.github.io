@@ -105,4 +105,23 @@ TEL: +86-13621160486
 
 E-mails: shiziqiang7@gmail.com and shiziqiang@fujitsu.com.
 
-Blog：http://blog.sciencenet.cn/u/Riemann7.					
+Blog：http://blog.sciencenet.cn/u/Riemann7.	
+
+
+    # ================= 新增：手动设置夹爪保护参数 =================
+    if hasattr(follower, "bus"):
+        print("[MolmoAct] 正在配置夹爪 (gripper) 的扭矩和电流保护参数...")
+        try:
+            # 确保机械臂已连接 (如果 FollowerArm 没有自动连接)
+            if hasattr(follower, "is_connected") and not follower.is_connected:
+                follower.connect()
+                
+            # 写入电机 EEPROM 寄存器时，建议在关闭扭矩的安全状态下进行
+            with follower.bus.torque_disabled():
+                follower.bus.write("Max_Torque_Limit", "gripper", 500)      # 50% 最大扭矩
+                follower.bus.write("Protection_Current", "gripper", 250)  # 50% 最大电流
+                follower.bus.write("Overload_Torque", "gripper", 25)      # 25% 过载扭矩
+            print("[MolmoAct] 夹爪保护参数配置成功！")
+        except Exception as e:
+            print(f"[MolmoAct] 警告：配置夹爪参数失败: {e}")
+    # ==============================================================
